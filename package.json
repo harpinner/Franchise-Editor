@@ -1,0 +1,28 @@
+{
+  "name": "franchise-editor",
+  "version": "1.0.0",
+  "description": "An Editor For multi-media franchises and all of their events and products",
+  "main": "index.js",
+  "scripts": {
+    "test": "startUP"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harpinner/Franchise-Editor.git"
+  },
+  "keywords": [
+    "Franchise",
+    "Editor",
+    "Multimedia"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harpinner/Franchise-Editor/issues"
+  },
+  "homepage": "https://github.com/harpinner/Franchise-Editor#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
