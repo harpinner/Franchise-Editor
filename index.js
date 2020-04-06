@@ -37,7 +37,7 @@ app.post('/login', function (req,res) {
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
 
-
+/*
 app.put('/advertisement',createAdvertisement);
 app.post('/advertisement/{id}',updateAdvertisement);
 app.get('/advertisement/{id}',getAdvertisement);
