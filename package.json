@@ -23,7 +23,7 @@
   "homepage": "https://github.com/harpinner/Franchise-Editor#readme",
   "dependencies": {
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "knex": "^0.20.13",
     "pdfkit": "^0.11.0",
     "pg": "^7.18.2"
